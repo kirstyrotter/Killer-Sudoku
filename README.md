@@ -3,6 +3,6 @@ This project generates unique combinations of numbers between 1 and 9 that sum u
 
 Features:
 Generates all possible combinations of numbers between 1 and 9 that satisfy:
-A target sum (e.g., 15).
-A specific number of terms (e.g., 3).
-Ensures all combinations are unique and comply with Killer Sudoku rules (no repeated numbers in a combination).
+- A target sum (e.g., 15).
+- A specific number of terms (e.g., 3).
+- Ensures all combinations are unique and comply with Killer Sudoku rules (no repeated numbers in a combination).
